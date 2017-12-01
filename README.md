@@ -10,6 +10,8 @@ Developing for WordPress is a complex task. You need to take care of many common
 
 This is (becoming) a curated list of such snippets, techniques & tools that can make WordPress development faster, more manageable & convenient task.
 
+---
+
 ## `functions.php`
 
 ### Self-versioning styles and scripts
