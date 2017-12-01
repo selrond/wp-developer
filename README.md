@@ -1,5 +1,7 @@
 # wp-developer
 
+[![license](https://img.shields.io/github/license/selrond/wp-developer.svg?style=flat-square)](https://choosealicense.com/licenses/mit/)
+
 ## Problem
 
 Developing for WordPress is a complex task. You need to take care of many common problems in lots of different areas. Although there are many ready-made solutions and approaches to most of them, they're scattered across the internet.  
