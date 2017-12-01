@@ -32,7 +32,7 @@ wp_enqueue_style(
 outputs something like 
 
 ```html
-<link rel='stylesheet' id='my-style-css' href='http://my-website.com/wp-content/themes/my-theme/style.min.css?ver=1512143428' type='text/css' media='all' />
+<link rel='stylesheet' id='my-style-css' href='http://my-website.com/wp-content/themes/my-theme/dist/style.min.css?ver=1512143428' type='text/css' media='all' />
 ```
 
 Notice the `style.min.css?ver=1512143428` where `1512143428` is a Unix timestamp, which represents the last time you edited the file.
