@@ -14,12 +14,11 @@ This is (becoming) a curated list of such snippets, techniques & tools that can 
 
 ## Useful general links
 
-- [WordPress Developer Resources](https://developer.wordpress.org/)
 - [Code Reference](https://developer.wordpress.org/reference/)
-- [Theme Developer Handbook](https://developer.wordpress.org/themes/)
-- [Plugin Developer Handbook](https://developer.wordpress.org/plugins/)
-- [REST API Handbook](https://developer.wordpress.org/rest-api/)
 - [WP-CLI Commands](https://developer.wordpress.org/cli/commands/)
+- [[Handbook] - Theme Developer](https://developer.wordpress.org/themes/)
+- [[Handbook] - Plugin Developer](https://developer.wordpress.org/plugins/)
+- [[Handbook] - REST API](https://developer.wordpress.org/rest-api/)
 
 ## Sections
 
