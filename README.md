@@ -23,7 +23,7 @@ This is (becoming) a curated list of such snippets, techniques & tools that can 
 
 ## Sections
 
-- [WP-CLI](wp-cli/REAMDE.md)
+- [WP-CLI](wp-cli/README.md)
 
 ## `functions.php`
 
