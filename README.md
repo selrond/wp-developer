@@ -21,6 +21,10 @@ This is (becoming) a curated list of such snippets, techniques & tools that can 
 - [REST API Handbook](https://developer.wordpress.org/rest-api/)
 - [WP-CLI Commands](https://developer.wordpress.org/cli/commands/)
 
+## Sections
+
+- [WP-CLI](wp-cli/REAMDE.md)
+
 ## `functions.php`
 
 ### Self-versioning styles and scripts
