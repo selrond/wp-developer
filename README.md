@@ -20,11 +20,15 @@ This is (becoming) a curated list of such snippets, techniques & tools that can 
 - [[Handbook] - Plugin Developer](https://developer.wordpress.org/plugins/)
 - [[Handbook] - REST API](https://developer.wordpress.org/rest-api/)
 
+---
+
 ## Sections
 
 - [WP-CLI](wp-cli/README.md)
 
-## `functions.php`
+---
+
+## General techniques
 
 ### Self-versioning styles and scripts
 
