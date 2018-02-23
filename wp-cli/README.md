@@ -7,14 +7,11 @@
 
 ## Snippets
 
-### Delete all comments from blog in multisite
+### Delete all comments from all sites in multisite
 
 ```sh
-wp comment list \
-    --url="http://blog1.multisite.test" \
-    --format=ids \
-    | \
-xargs wp comment delete \
-    --url="http://blog1.multisite.test" \
-    --force
+for url in $(wp site list --field=url); 
+	do echo "Deleting all comments from $url"; 
+	wp comment delete "$(wp comment list --field=ID --url="$url")" --url="$url" --force; 
+done;
 ```
