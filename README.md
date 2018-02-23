@@ -28,11 +28,11 @@ This is (becoming) a curated list of such snippets, techniques & tools that can 
 
 ### Self-versioning styles and scripts
 
-PHP has a function - [filemtime](https://secure.php.net/manual/en/function.filemtime.php) - that can be very handy when dealing with browser cache busting. It gets file modification time and returns it as a Unix timestamp.
+PHP function - [filemtime](https://secure.php.net/manual/en/function.filemtime.php) - comes in quite handy when dealing with browser cache busting. It gets file modification time and returns it as a Unix timestamp.
 
 `int filemtime( string $filename )`
 
-Example (in your theme's `functions.php`):
+Example:
 
 ```php
 $my_stylesheet_uri = get_template_directory_uri() . '/dist/style.min.css';
